@@ -1,5 +1,5 @@
 # Weather App 🌦️
-A minimal weather app built with **React Native** and **Expo**, fetching real-time temperature data using the [Open-Meteo API](https://open-meteo.com/).  
+A weather app built with **React Native** and **Expo**, fetching real-time temperature data using the [Open-Meteo API](https://open-meteo.com/).  
 It’s lightweight, simple, and runs on both iOS and Android.
 
 ## Features
