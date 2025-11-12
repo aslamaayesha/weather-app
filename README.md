@@ -9,11 +9,12 @@ It’s lightweight, simple, and runs on both iOS and Android.
 - Clean, responsive UI built with Expo  
 - Supports both mobile and web preview
 
-## Tech Stack
+  ## Tech Stack
 - React Native  
 - Expo  
 - TypeScript  
 - Open-Meteo API
+
 
 ## Setup
 1. Clone the repo:
