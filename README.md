@@ -1,8 +1,25 @@
-# Welcome to my Expo app 👋
+# Weather App 🌦️
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A minimal weather app built with **React Native** and **Expo**, fetching real-time temperature data using the [Open-Meteo API](https://open-meteo.com/).  
+It’s lightweight, simple, and runs on both iOS and Android.
 
-## Get started
+## Features
+- Search weather by city name  
+- Displays live temperature using Open-Meteo  
+- Clean, responsive UI built with Expo  
+- Supports both mobile and web preview
+
+## Tech Stack
+- React Native  
+- Expo  
+- TypeScript  
+- Open-Meteo API
+
+## Setup
+1. Clone the repo:
+   ```bash
+   git clone git@github.com:aslamayesha/weather-app.git
+
 
 1. Install dependencies
 
