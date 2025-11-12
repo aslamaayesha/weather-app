@@ -5,7 +5,7 @@ It supports both **Light/Dark themes** and adapts automatically to the system ap
 
 ---
 
-### 🚀 Features  
+### Features  
 - Search weather by city name  
 - Live temperature from Open-Meteo  
 - Light/Dark/System theme toggle  
@@ -13,7 +13,7 @@ It supports both **Light/Dark themes** and adapts automatically to the system ap
 
 ---
 
-### 🧰 Tech Stack  
+### Tech Stack  
 - React Native  
 - Expo  
 - TypeScript  
@@ -21,7 +21,7 @@ It supports both **Light/Dark themes** and adapts automatically to the system ap
 
 ---
 
-### 💻 Run Locally  
+### Run Locally  
 ```bash
 git clone git@github.com:aslamaayesha/weather-app.git
 cd weather-app
